@@ -8,7 +8,7 @@
 <body>
 <div class="container">
     <br>
-    <h4>Data Anggota </h4>
+    <center> <h2>Data Anggota</h2> </center>
 <?php
 
     include "koneksi.php";
@@ -38,8 +38,8 @@
         <thead>
         <tr>
             <th>No</th>
-            <th>Username</th>
-            <th>Nama</th>
+            <center><th>Username</th></center>
+            <center><th>Nama</th></center>
             <th>Alamat</th>
             <th>Email</th>
             <th>No HP</th>
